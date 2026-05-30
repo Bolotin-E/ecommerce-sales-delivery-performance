@@ -2,6 +2,11 @@
 
 SQL and Tableau analytics project exploring sales performance, customer behavior, and delivery efficiency using the Brazilian Olist E-Commerce dataset.
 
+
+<img width="2238" height="1438" alt="Business Performance Dashboard" src="https://github.com/user-attachments/assets/af90fdc1-e0aa-4265-9910-57333203f7c3" />
+
+
+
 ---
 
 ## 📌 Project Overview
