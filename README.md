@@ -114,7 +114,6 @@ Dashboard visualizations include:
 - Top Customers
 - Late Delivery KPI
 
-*(Dashboard screenshot will be added here.)*
 
 ---
 
